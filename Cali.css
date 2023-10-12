@@ -1,5 +1,5 @@
 /*IPAD*/
-@media (min-width: 391px) and (max-width: 1024px){
+@media (min-width: 415px) and (max-width: 1024px){
     *{
         margin: auto;
         padding: 0;
@@ -167,7 +167,7 @@
 
 
                                                               /* CELULARES*/
-@media (max-width: 390px){
+@media (max-width: 414px){
   *{
     margin: auto;
     padding: 0;
