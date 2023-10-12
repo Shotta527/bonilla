@@ -294,14 +294,7 @@
         font-family: 'Arial';
     }
 
-                                              /* CAJA QUE CONTIENE LAS 3 CAJAS*/
-    #central{
-        width: 100%;
-        display: flex;
-        padding-bottom: 15px;
-        height: 650px;
-        margin-bottom: 5px;
-    }
+ 
     
                                               /* CAJAS EXTERNAS*/  
     .Externos{
