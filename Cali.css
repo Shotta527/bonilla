@@ -255,7 +255,7 @@
         padding: 12px;
         text-align: center;
         font-family: 'Arial';
-        color: #29c54a;
+        color: #002c54;
     }
                                         /* NOMBRE DEL LOS PROCEDIMIENTOS*/
     .sid{
@@ -305,7 +305,7 @@
         border-style: double;
         border-color: #002c54;
         overflow: hidden;
-        height: 520px; 
+        height: 560px; 
         float: left;
         flex:1;
      }
@@ -318,7 +318,7 @@
         border-style: double;
         border-color: #002c54;
         overflow: hidden;
-        height: 520px; 
+        height: 560px; 
         float: left;
         flex:1;
     }   
