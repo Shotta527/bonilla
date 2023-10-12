@@ -305,7 +305,7 @@
         border-style: double;
         border-color: #002c54;
         overflow: hidden;
-        height: 600px; 
+        height: 520px; 
         float: left;
         flex:1;
      }
@@ -318,7 +318,7 @@
         border-style: double;
         border-color: #002c54;
         overflow: hidden;
-        height: 600px; 
+        height: 520px; 
         float: left;
         flex:1;
     }   
