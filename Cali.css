@@ -131,7 +131,7 @@
     width: 100%;
     display: flex;
     padding-bottom: 15px;
-    height: 550px;
+    height: 600px;
     margin-bottom: 15px;
   }
                                                 /* CAJAS EXTERNAS*/
@@ -143,7 +143,7 @@
         border-color: #002c54;
         overflow: hidden;
         width: 400px;
-        height: 530px; 
+        height: 580px; 
         float: left;
         margin-bottom: 0px;
         flex:1;
@@ -155,7 +155,7 @@
         border-color: #002c54;
         overflow: hidden;
         width: 400px;
-        height: 530px; 
+        height: 580px; 
         float: left;
         margin-bottom: 0px;
         flex:1;
