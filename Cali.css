@@ -125,7 +125,15 @@
         background-color: rgb(253, 239, 44);
         font-family: 'Arial';
     }
-
+                                            /* CAJA QUE CONTIENE LAS 3 CAJAS*/
+   
+  #central{
+      width: 450px;
+      display: flex;
+      padding-bottom: 15px;
+      height: 1850px;
+      margin-bottom: 20px;
+  }
                                                 /* CAJAS EXTERNAS*/
     .Externos{
         margin-left: 15px;
