@@ -299,7 +299,7 @@
         width: 100%;
         display: flex;
         padding-bottom: 15px;
-        height: 530px;
+        height: 1600px;
         margin-bottom: 5px;
     }
     
@@ -312,7 +312,7 @@
         border-style: double;
         border-color: #002c54;
         overflow: hidden;
-        height: 480px; 
+        height: 510px; 
         float: left;
         flex:1;
      }
@@ -325,7 +325,7 @@
         border-style: double;
         border-color: #002c54;
         overflow: hidden;
-        height: 480px; 
+        height: 510px; 
         float: left;
         flex:1;
     }   
