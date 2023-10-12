@@ -131,7 +131,8 @@
     width: 100%;
     display: flex;
     padding-bottom: 15px;
-    height: 580px;
+    height: 530px;
+    margin-bottom: 15px;
   }
                                                 /* CAJAS EXTERNAS*/
     .Externos{
@@ -142,9 +143,9 @@
         border-color: #002c54;
         overflow: hidden;
         width: 400px;
-        height: 550px; 
+        height: 510px; 
         float: left;
-        margin-bottom: 10px;
+        margin-bottom: 0px;
         flex:1;
     }
                                                   /* CAJA CENTRAL*/ 
@@ -154,9 +155,9 @@
         border-color: #002c54;
         overflow: hidden;
         width: 400px;
-        height: 550px; 
+        height: 510px; 
         float: left;
-        margin-bottom: 10px;
+        margin-bottom: 0px;
         flex:1;
     }
 }
