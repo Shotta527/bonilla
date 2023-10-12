@@ -128,10 +128,11 @@
                                             /* CAJA QUE CONTIENE LAS 3 CAJAS*/
    
   #central{
-      width: 450px;
-      display: flex;
-      padding-bottom: 15px;
-      margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    padding-bottom: 15px;
+    height: 530px;
+    margin-bottom: 5px;
   }
                                                 /* CAJAS EXTERNAS*/
     .Externos{
